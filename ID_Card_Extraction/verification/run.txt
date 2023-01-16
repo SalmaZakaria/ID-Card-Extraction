@@ -1,0 +1,4 @@
+python face_match.py nour.jpg nour.jpg
+
+---------------------------------------------------
+python face_match.py nour.jpg arwa.jpg
